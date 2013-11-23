@@ -1,4 +1,4 @@
-SAAS
+SaaS
 ====
 
 This is a two part MOOC at edX from Berkeley. The course is about Ruby, SAAS, Agile Software development and Automated Software Testing.
