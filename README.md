@@ -1,7 +1,7 @@
 SaaS
 ====
 
-This is a two part MOOC at edX from Berkeley. The course is about Ruby, SAAS, Agile Software development and Automated Software Testing.
+This is a two part MOOC at edX from Berkeley. The course is about Ruby and Rails, SaaS Architecture and REST, Agile Software development and Automated Software Testing.
 
 The course links:
 
